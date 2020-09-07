@@ -1,0 +1,47 @@
+Step 1 Start
+Step 2 Run server
+Step 3 Wait for client request
+Step 4 Receive request
+Step 5 Check the type of user logged In
+        if user is tester:
+              If request contains bug details:
+                    Store bug details
+                    Generates log
+                    Go to step 3
+              Else If request is of view type:
+                    Read details from file where tester id is equal to id of current user
+                    Send Details as response
+                    Go to step 3
+              Else:
+                    Invalid request
+                    Go to step 3  
+
+        Else if user is Developer:
+              If request contains bug Id:
+                    Change the status of corrensponding bug Id 
+                    Generates log
+                    Go to step 3
+              Else If request is of view type:
+                    Read details from file where tester id is equal to id of current user
+                    Send Details as response
+                    Go to step 3
+              Else:
+                    Invalid request
+                    Go to step 3
+        Else:
+              If request contains bug Id and Developer Id:
+                    Modify the corresponding bug status and assigned Developer 
+                    Generates log
+                    Go to step 3
+              Else If request is of view type:
+                    Read details from file where tester id is equal to id of current user
+                    Send Details as response
+                    Go to step 3
+              Else:
+                    Invalid request
+                    Go to step 3
+Step 6 Stop
+
+
+
+

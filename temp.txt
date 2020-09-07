@@ -1,0 +1,4 @@
+resolved B958      bug56      11/10/2019      T73000      D73000
+resolved B121      bug5       11/10/2019      T73000      D73000
+resolved B802      bug43      12/10/2019      T73000      D73000
+assigned B570      bug12      21/11/2019      T73000      D73000

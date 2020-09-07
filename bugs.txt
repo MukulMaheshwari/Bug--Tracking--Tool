@@ -1,0 +1,20 @@
+
+resolved B958      bug56      11/10/2019      T73000      D73000
+new      B177      bug2       11/10/2019      T73010      null
+resolved B121      bug5       11/10/2019      T73000      D73000
+new      B711      bug6       11/10/2019      T73000      null
+new      B995      bug78      11/10/2019      T73000      null
+resolved B802      bug43      12/10/2019      T73000      D73000
+assigned B666      bug67      12/10/2019      T73000      D10000
+resolved B827      test8      31/10/2019      T35769      D76543
+new      B406      test567    31/10/2019      T73000      null
+new      B306      test23     31/10/2019      T73000      null
+resolved B353      bug73      31/10/2019      T97890      D34572
+new      B997      bug789     31/10/2019      T73000      null
+assigned B824      bug69      1/11/2019       T73000      D28590
+new      B345      bug67      1/11/2019       T34894      null
+new      B808      bug09      13/11/2019      T73000      null
+resolved B570      bug12      21/11/2019      T73000      D73000
+new      B508      B234       22/11/2019      T73000      null
+new      B968      crash      23/11/2019      T73000      null
+assigned B659      blank      23/11/2019      T73000      D73000
